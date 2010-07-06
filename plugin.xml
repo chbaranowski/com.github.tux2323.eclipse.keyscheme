@@ -17,6 +17,12 @@
 		sequence="M1+M2+P">
 	</key>
 	
+	<key
+		commandId="org.eclipse.jdt.ui.edit.text.java.create.getter.setter"
+		schemeId="com.github.tux2323.eclipse.keyschemeAcceleratorConfigurationleratorConfiguration"
+		sequence="M1+M2+G">
+	</key>
+
 	<!-- Add here the keys for the scheme -->
 	
    </extension>
