@@ -7,17 +7,17 @@
    	<scheme
        name="tux2323"
        description="My Eclipse Key Scheme"
-      parentId="org.eclipse.ui.defaultAcceleratorConfiguration"
+       parentId="org.eclipse.ui.defaultAcceleratorConfiguration"
        id="com.github.tux2323.eclipse.keyschemeAcceleratorConfigurationleratorConfiguration">
 	</scheme>
 	
 	<key
 		commandId="org.eclipse.ui.perspectives.showPerspective"
 		schemeId="com.github.tux2323.eclipse.keyschemeAcceleratorConfigurationleratorConfiguration"
-		sequence="M1+P">
+		sequence="M1+M2+P">
 	</key>
 	
-	<!-- TODO: Add here the keys for the scheme -->
+	<!-- Add here the keys for the scheme -->
 	
    </extension>
 
