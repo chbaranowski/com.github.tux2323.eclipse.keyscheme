@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Keyscheme
+Bundle-SymbolicName: com.github.tux2323.eclipse.keyscheme;singleton:=true
+Bundle-Version: 0.0.1.qualifier
+Bundle-Activator: com.github.tux2323.eclipse.keyscheme.Activator
+Bundle-Vendor: GITHUB
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.jdt.ui;bundle-version="3.6.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy

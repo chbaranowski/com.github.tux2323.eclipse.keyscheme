@@ -1,0 +1,13 @@
+#
+# TUX2323 Key Scheme
+#
+# This eclipse key scheme extended the eclipse basic key scheme and add key bindings to command without
+# a default key binding. 
+# 
+# Example: STRG+P Show the Perspective View to change to a other perspective.
+#
+# To ease find the command IDs of a existing command in the eclipse platform there is a small util eclipse plugin,
+# the eclipse command viewer http://github.com/tux2323/com.github.tux2323.eclipse.command.viewer 
+#
+# License under EPL 
+# see http://www.eclipse.org/legal/epl-v10.html 
