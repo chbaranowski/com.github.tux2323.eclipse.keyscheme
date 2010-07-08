@@ -18,13 +18,53 @@
 	</key>
 	
 	<key
+		commandId="org.eclipse.debug.ui.commands.OpenDebugConfigurations"
+		schemeId="com.github.tux2323.eclipse.keyschemeAcceleratorConfigurationleratorConfiguration"
+		sequence="M1+ALT+X D">
+	</key>
+	
+	<key
+		commandId="org.eclipse.debug.ui.commands.OpenRunConfigurations"
+		schemeId="com.github.tux2323.eclipse.keyschemeAcceleratorConfigurationleratorConfiguration"
+		sequence="M1+ALT+X R">
+	</key>
+	
+	<key
 		commandId="org.eclipse.jdt.ui.edit.text.java.create.getter.setter"
 		schemeId="com.github.tux2323.eclipse.keyschemeAcceleratorConfigurationleratorConfiguration"
-		sequence="M1+M2+G">
+		sequence="M1+M2+S G">
 	</key>
 
-	<!-- Add here the keys for the scheme -->
-	
+	<key
+		commandId="org.eclipse.jdt.ui.edit.text.java.generate.hashcode.equals"
+		schemeId="com.github.tux2323.eclipse.keyschemeAcceleratorConfigurationleratorConfiguration"
+		sequence="M1+M2+S H">
+	</key>
+
+	<key
+		commandId="org.eclipse.jdt.ui.edit.text.java.generate.constructor.using.fields"
+		schemeId="com.github.tux2323.eclipse.keyschemeAcceleratorConfigurationleratorConfiguration"
+		sequence="M1+M2+S C">
+	</key>
+
+	<key
+		commandId="org.eclipse.jdt.ui.edit.text.java.generate.tostring"
+		schemeId="com.github.tux2323.eclipse.keyschemeAcceleratorConfigurationleratorConfiguration"
+		sequence="M1+M2+S T">
+	</key>
+
+	<key
+		commandId="org.eclipse.jdt.ui.edit.text.java.create.delegate.methods"
+		schemeId="com.github.tux2323.eclipse.keyschemeAcceleratorConfigurationleratorConfiguration"
+		sequence="M1+M2+S D">
+	</key>
+
+	<key
+		commandId="org.eclipse.jdt.ui.edit.text.java.open.implementation"
+		schemeId="com.github.tux2323.eclipse.keyschemeAcceleratorConfigurationleratorConfiguration"
+		sequence="M1+ALT+O">
+	</key>
+
    </extension>
 
 </plugin>
